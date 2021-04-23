@@ -1,0 +1,57 @@
+body{
+	background-color: white;
+	padding: 0px;
+	min-height: 100%;
+	margin: 0 0 80px; 
+}
+
+header{
+	color:#000;
+	padding: 20px;
+	text-align: center;
+	background-color: #FFFFCC;
+	font-family: comic sans ms;
+}
+
+
+footer{
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 50px;
+	width: 100%;
+	color:#000; 
+	background: #FFFFCC;
+	font-size: 1em;
+	text-align: center;
+}
+
+.text_welcome{
+	text-align: center;
+	margin: 24px;
+}
+
+
+.form1{
+	background-color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+.form1 table{
+	margin: auto;
+}
+
+.form1 table .reset{
+	background-color: #CCCCCC; 
+	width:100px; 
+	height: 28px;
+}
+
+.form1 table .submit{
+	background-color: #3366FF;
+	color:white; 
+	width:100px;
+	height: 28px;
+}
