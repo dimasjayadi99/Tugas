@@ -2,7 +2,7 @@
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 
-Program ini dibuat untuk memenuhi tugas Pelatihan Online Bidang TIK Berbasis SKKNI Tahun 2021 Gelombang Ke-5 Pengembang Web Peratama (Junior Web Developer).
+Program ini dibuat untuk memenuhi tugas Pelatihan Online Bidang TIK Berbasis SKKNI Tahun 2021 Gelombang Ke-5 Pengembang Web Pertama (Junior Web Developer).
 
 ## Requirement
 
